@@ -4,7 +4,7 @@
 
 MINECRAFT_SERVER_DIR="minecraft-server"
 MIECRAFT_SERVER_PATH="$HOME/$MINECRAFT_SERVER_DIR"
-# 1.16 server, requires java 8
+# 1.16.5 server, requires java 8
 MINECRAFT_SERVER_DOWNLOAD_URL="https://launcher.mojang.com/v1/objects/1b557e7b033b583cd9f66746b7a9ab1ec1673ced/server.jar"
 
 # Update the system and isntall dependencies
